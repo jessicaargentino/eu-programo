@@ -8,5 +8,7 @@ A demonstração da página pode ser acessada via <a href="https://page-ada-love
 
 ### Tecnologias
 HTML
+<br/>
 CSS
+<br/>
 JavaScript
