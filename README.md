@@ -4,7 +4,7 @@
 <p align="center"><a href="#demonstração">Demonstração</a> • <a href="#tecnologias">Tecnologias</a></p>
 
 ### Demonstração
-A demonstração da página pode ser acessada via <a href="https://page-ada-lovelace.jessicargentino.repl.co/">Repl.it</a>.
+A demonstração da página pode ser acessada via <a href="https://adalovelace.jessicargentino.repl.co/">Repl.it</a>.
 
 ### Tecnologias
 HTML
